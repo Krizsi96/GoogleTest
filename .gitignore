@@ -33,3 +33,5 @@
 
 # untracked folders
 googletest/
+build/
+.vscode/
